@@ -11,6 +11,5 @@ I'm a data scientist and researcher based in Lisbon.
 Email: mbaptistaamaral@gmail.com
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarmate&layout=compact&hide_border=true)
-
+![Languages](https://metrics.lecoq.io/amarmate?template=classic&languages=1&languages.limit=8&v=1)
 
